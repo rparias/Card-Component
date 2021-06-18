@@ -12,9 +12,9 @@ Users should be able to:
 
 ### Screenshot
 
-<img alt="Desktop screenshoot" src="Screenshot%20desc.png"  width=400 align=center>
+<img alt="Desktop screenshoot" src="Screenshot%20desc.png"  width=600 align=center>
 
-<img alt="Mobile screenshoot" src="./images/Screenshot%20mobile.png"  width=400 align=center>
+<img alt="Mobile screenshoot" src="./images/Screenshot%20mobile.png"  width=600 align=center>
 
 ### Links
 
